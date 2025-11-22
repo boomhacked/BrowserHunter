@@ -281,7 +281,6 @@ These files are automatically cleaned up when the application closes.
 
 - Very large databases (>1M entries) may have slower initial load
 - VirusTotal free tier has rate limits (4 req/min, 500/day)
-- Timeline features removed in v1.0 for performance optimization
 - Some browser extensions may store data in separate databases
 
 ---
@@ -317,13 +316,4 @@ For bug reports and feature requests, please open an issue on GitHub.
 
 ---
 
-## 📧 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/BrowserHunter/issues)
-- **Documentation**: See [USAGE.md](USAGE.md) for detailed usage guide
-- **Security**: See [SECURITY.md](SECURITY.md) for security policy
-
----
-
-**Developed for forensic analysts by security professionals** 🔍
 
