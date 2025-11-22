@@ -15,7 +15,7 @@
    - Original files are never modified
 
 3. **Network Security**
-   - Application runs completely offline
+   - Application is able to run completely offline (threat intelligence naturally won't work)
    - No network connections initiated
    - Safe for air-gapped environments
 
