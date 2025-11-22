@@ -2,7 +2,7 @@
 
 **Universal SQLite Database Browser for Forensic Analysis**
 
-A powerful desktop application for forensic analysts that can analyze **any SQLite database**, with specialized support for browser history files. Features dynamic table browsing, threat intelligence integration, and comprehensive export capabilities.
+A portable powerful desktop application for forensic analysts that can analyze **any SQLite database**, with specialized support for browser history files. Features dynamic table browsing, threat intelligence integration, and comprehensive export capabilities.
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.11%20|%203.12-green)
@@ -326,3 +326,4 @@ For bug reports and feature requests, please open an issue on GitHub.
 ---
 
 **Developed for forensic analysts by security professionals** 🔍
+
