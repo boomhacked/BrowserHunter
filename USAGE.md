@@ -209,7 +209,6 @@ C:\Users\[Username]\AppData\Local\Microsoft\Edge\User Data\Default\History
    - **CSV** - For Excel, spreadsheets
    - **JSON** - For programming, APIs
    - **XLSX** - Excel workbook with formatting
-   - **HTML** - Formatted report for viewing
 
 3. **Choose Timezone** (optional):
    - Select timezone for timestamp conversion
