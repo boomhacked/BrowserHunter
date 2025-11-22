@@ -37,10 +37,10 @@ A portable powerful desktop application for forensic analysts that can analyze *
 - **Advanced Filtering** - Date ranges, patterns, and custom queries
 
 ### Data Export & Reporting
-- **Multiple Formats** - CSV, JSON, Excel (.xlsx), HTML
+- **Multiple Formats** - CSV, JSON, Excel (.xlsx)
 - **Timezone-Aware** - All timestamps converted to selected timezone
 - **Selective Export** - Export filtered results only
-- **Formatted Reports** - Professional HTML reports with styling
+- **Formatted Reports** - Professional JSON reports with styling
 
 ### User Interface
 - **Pagination** - Handle large databases efficiently
@@ -158,7 +158,6 @@ python main.py
    - **CSV** - For Excel/spreadsheet analysis
    - **JSON** - For programmatic processing
    - **XLSX** - Formatted Excel workbook
-   - **HTML** - Formatted report for viewing
 3. Select timezone for timestamp conversion
 4. Choose save location
 
@@ -315,5 +314,6 @@ Contributions are welcome! Please:
 For bug reports and feature requests, please open an issue on GitHub.
 
 ---
+
 
 
